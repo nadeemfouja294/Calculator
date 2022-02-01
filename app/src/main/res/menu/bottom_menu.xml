@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/oval"
+        android:title="Oval"
+        android:icon="@drawable/ic_oval"/>
+    <item android:id="@+id/circle"
+        android:title="Circle"
+        android:icon="@drawable/ic_circle"
+        />
+    <item android:id="@+id/rectangle"
+        android:title="Rectangle"
+        android:icon="@drawable/ic_rectangle"/>
+    <item android:id="@+id/leaf"
+        android:title="Leaf"
+        android:icon="@drawable/leaf_green_outline"/>
+
+</menu>
